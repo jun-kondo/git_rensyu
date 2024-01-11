@@ -1,1 +1,2 @@
 pull --rebaseするんだよ!!
+git stashで変更を退避するんだよ!!
